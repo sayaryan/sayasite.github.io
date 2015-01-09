@@ -1,0 +1,24 @@
+<style type="text/css">
+
+body{
+background-color: pink 
+	
+}
+#tt{
+	text-align:center;
+	font-size: 60px;
+}
+#s{
+margin-left: auto;
+margin-right: auto;
+display: block;
+
+
+}
+
+
+</style>
+<h1 id="tt">Elliot</h1>
+
+
+<img id="s" src="IMG_5758.JPG" height="300">
